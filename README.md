@@ -1,6 +1,4 @@
-# Problem 5
-
-## Reverse a String 
+# Problem 5 Reverse a String 
 
 In this exercise you want to create a method that can reverse a string, and also capitalizes the FIRST letter of every word.
 
@@ -31,6 +29,6 @@ You have 30 mins ....
 
 **Sample Output**
 ```$xslt
-   Gnitest TINU Eovl I
+   output = Gnitest TINU Eovl I
 ```
 

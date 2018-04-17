@@ -31,7 +31,18 @@ public class Problem5Test {
 
         String expected = "Pacdnaesrever";
         String actual = Problem5.reverseAndCapitalize(input);
-        
+
+        assertEquals(expected, actual);
+    }
+
+
+    @Test
+    void testReverseAndCapitalizeSentence() {
+        String input = "What a mess this one is";
+
+        String expected = "Si Eno Siht Ssem A Tahw";
+        String actual = Problem5.reverseAndCapitalize(input);
+
         assertEquals(expected, actual);
     }
 }

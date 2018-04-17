@@ -19,7 +19,6 @@ You are allowed to use the JAVA [Java 8 API](https://docs.oracle.com/javase/8/do
 
 Ya Lazy Lima Beans
 
-
 You have 30 mins .... 
 
 **Sample Input**

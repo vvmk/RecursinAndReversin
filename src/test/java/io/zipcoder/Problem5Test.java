@@ -40,7 +40,7 @@ public class Problem5Test {
     void testReverseAndCapitalizeSentence() {
         String input = "What a mess this one is";
 
-        String expected = "Si Eno Siht Ssem A Tahw";
+        String expected = "Si Eno Siht Ssem A TahW";
         String actual = Problem5.reverseAndCapitalize(input);
 
         assertEquals(expected, actual);
